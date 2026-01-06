@@ -1,0 +1,1 @@
+export default function Progress({ value }) { return (<div className="mt-3 h-2 w-full rounded-full bg-zinc-200"><div className="h-2 rounded-full bg-emerald-700" style={{ width: `${value}%` }} /></div></div>); }

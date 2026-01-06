@@ -1,0 +1,1 @@
+export default function Notice() { return (<div className="mt-4 rounded-xl bg-zinc-50 p-4 text-sm text-zinc-700">⚠️ <b>Aviso:</b> conteúdo educacional e informativo. Não é diagnóstico médico e não substitui avaliação profissional.</div>); }
